@@ -21,11 +21,11 @@ pnpm-debug.log*
 # Vercel
 .vercel/
 
-# OS files
+# OS specific
 .DS_Store
 Thumbs.db
 
-# IDE files
+# Editor related
 .vscode/
 .idea/
 
